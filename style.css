@@ -41,7 +41,7 @@ body {
 }
 
 .signup-btn {
-	background-color: white;
+	background-color: #F6BC51;
 	width: 120px;
 	height: 40px;
 	border-radius: 5px;
@@ -49,9 +49,9 @@ body {
 	padding: 5px; 
 }
 .signup-btn:hover {
-	color: white;
-	background-color: #0b65c6;
-	border: 3px solid white;
+	color: #F6BC51;
+	background-color: #55003C;
+	border: 2px solid white;
 }
 /*header...end*/
 
@@ -155,7 +155,7 @@ svg {
 	display: block;
 	margin-bottom: 20px;
 	font-size: 40px;
-	color: #161C2D;
+	color: #F6BC51;
 }
 
 .section2-para {
@@ -179,7 +179,7 @@ svg {
 	justify-content: center;
 	width:100%;
 	height: auto;
-	background-color: #F9FBFD;
+	background-color: #55003C;
 	margin: 40px auto;
 }
 
@@ -187,7 +187,7 @@ svg {
 	font-weight: 700;
 	font-size: 21px;
 	line-height: 29px;
-	color: #161C2D;
+	color: #F6BC51;
 	margin-right: 130px;
 }
 
@@ -195,7 +195,7 @@ svg {
 	font-weight: 400;
 	font-size: 17px;
 	line-height: 27px;
-	color: #4A545E;
+	color: #FFFFFF;
 }
 
 .footer-sub-container1 {
@@ -248,13 +248,13 @@ svg {
 }
 
 .bottom-footer-link:hover {
-	color: #4A545E;
+	color: #ED57B7;
 	text-decoration: underline;
 }
 /*bottom Footer...end*/
 
 .copyright {
-	color: #161C2D;
+	color: #55003C;
 	font-weight: 400;
 	font-size: 16px;
 	text-align: center;
@@ -278,11 +278,15 @@ svg {
 
 
 .blue-color {
-	color: #0b65c6;
+	color: #F6BC51;
+}
+
+.purple-color {
+	color: #55003C;
 }
 
 .background-blue {
-	background-color: #0b65c6;
+	background-color: #55003C;
 }
 
 .grey-color {
@@ -302,7 +306,7 @@ svg {
 }
 
 .font {
-	font-family: 'IBM Plex Sans', sans-serif;
+	font-family: 'Roboto', sans-serif;
 }
 
 .bold-text {
@@ -325,7 +329,7 @@ svg {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background-color: #0b65c6;
+	background-color: #55003C;
 	opacity: 0.985;
 	z-index: 999999;
 }
@@ -339,7 +343,7 @@ svg {
 }
   
 .cube1, .cube2 {
-	background-color: #fff;
+	background-color: #F6BC51;
 	width: 15px;
 	height: 15px;
 	position: absolute;
@@ -533,16 +537,11 @@ svg {
 	font-weight: 700;
 	font-size: 18px;
 	line-height: 29px;
-	color: #161C2D;
 	margin-right: 0;
 	text-align: center;
 }
 
 .footer-header-paragraph {
-	font-weight: 400;
-	font-size: 17px;
-	line-height: 27px;
-	color: #4A545E;
 	text-align: center;
 }
 
