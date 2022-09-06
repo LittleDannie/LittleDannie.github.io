@@ -9,7 +9,7 @@
 .pp-h2 {
     font-weight: 700;
     font-size: 35px;
-    color: #408ad4;
+    color: #55003C;
 }
 
 .pp-h2-para {
@@ -19,7 +19,7 @@
 }
 
 .pp-h3 {
-	color: #408ad4; 
+	color: #55003C; 
 	font-size: 20px;
 	line-height: 18px;
 	margin-top: 15px;
@@ -78,7 +78,7 @@ td {
 
 .pp-para a:link {
     text-decoration: none;
-    color: #408ad4;
+    color: #55003C;
 }
 
 .pp-para a:hover {

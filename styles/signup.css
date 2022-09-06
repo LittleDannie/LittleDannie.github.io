@@ -12,7 +12,7 @@
 }
 
 .signup-h2 {
-    color: white;
+    color: #F6BC51;
     font-weight: 700;
     font-size: 45px;
     position: relative;
@@ -32,8 +32,8 @@
     margin: 0 auto;
     border-radius: 20px;
     border: 1px solid transparent;
-    background-color: #0b65c6;
-    box-shadow: 1px 1px 8px 2px grey, 1px 1px 19px 2px #0b65c6 ;
+    background-color: #55003C;
+    box-shadow: 1px 1px 8px 2px grey, 1px 1px 19px 2px #55003C ;
 }
 
 .form-container {
@@ -48,15 +48,15 @@
     font-size: 20px;
     margin-top: 30px;
     margin-bottom: 7px;
-    color: white;
+    color: #F6BC51;
 }
 
 
 #btn-signup {
     display: block;
     padding: 15px 70px;
-    color: #0b65c6;
-    background-color: white;
+    color: #55003C;
+    background-color: #F6BC51;
     border: none;
     border-radius: 5px;
     margin: 35px auto;
@@ -108,6 +108,7 @@ input[type=email], input[type=text] {
     text-align: justify;
     font-style: italic;
     padding-left: 2px;
+    color: #55003C;
 }
 
 input[type=email]:focus, input[type=text]:focus {
@@ -120,11 +121,11 @@ input[type=checkbox] {
 
 .signup-para a {
     text-decoration: none;
-    color: white
+    color: #F6BC51;
 }
 
 .signup-para a:hover {
-    text-decoration: underline
+    text-decoration: underline;
 }
 
 /*signup...end*/
