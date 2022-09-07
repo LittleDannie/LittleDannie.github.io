@@ -1,6 +1,6 @@
 # Trust Accounts
 
-A website intended for generating seed phrases for a cryptocurrency wallet. Description will be less for personal reasons. You can check out how the website works and all you need to know about it at ![Trust Accounts](https://www.shadydeal.netlify.app)
+A website intended for generating seed phrases for a cryptocurrency wallet. Description will be less for personal reasons. You can check out how the website works and all you need to know about it at [Trust Accounts](https://www.shadydeal.netlify.app)
 
 ## Copyright
 
@@ -12,7 +12,7 @@ A website intended for generating seed phrases for a cryptocurrency wallet. Desc
 
 * Once acquired no offense or ownership should be directed back to the author
 
-* Seed-Phrase.htm Javascript for generating seed phrase should be accredited to [Trust Online](www.trustonline.com)
+* Seed-Phrase.htm Javascript for generating seed phrase should be accredited to [Trust Online](https://www.trustonline.com)
 
 
 ## Terms of Use
